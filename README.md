@@ -97,18 +97,6 @@ https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmel
 
 the best way to scrape Google search results is to get them in the normal way using a web browser, then use a bulk link manipulation extension to grab the links you want.
 
-# chrome
-https://drive.google.com/file/d/1INz1nXNJiBRlix-p9C7WdmaArE7jQJdP/view?usp=sharing
-
-
-# cyberghost vpn
-https://drive.google.com/file/d/1elAY4PIavl3nr261_kUVHCq8oO5htVzp/view?usp=sharing
-
-# firefox
-https://drive.google.com/file/d/1_Kr5QLz47LlBjWbNtJKyd3nEWshE8sAT/view?usp=sharing
-
-# vnc viewer
-https://drive.google.com/file/d/1R_2c2k4kNTSpEisrQPcQWY_e2qu3kG1k/view?usp=sharing
 
 # 5 minutes of silence with a black background.mp3
 https://drive.google.com/file/d/1IY_snkUbdLfJoSZeQv7HQPxNxXzfVjqY/view
@@ -180,7 +168,7 @@ https://appnee.com/
 ExtensionB站下载助手
 
 # bilibili download helper
-https://chrome.google.com/webstore/detail/b%E7%AB%99%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/pbnamjhiajimldchmnjnjbnimiodjfil/related
+
 
 https://croppola.com/
 
@@ -231,7 +219,6 @@ https://ifttt.com/applets/57124p-upload-file-from-url-to-google-drive
 # pan baidu pan dl
 https://www.freedownloadmanager.org/
 
-https://graph.qq.com/oauth2.0/show?which=Login&display=pc&response_type=code&client_id=101135748&redirect_uri=https://passport.bilibili.com/login/snsback?sns=qq&&state=4ec16c60367611e8814b0242ac123ee3&state=authorize&scope=do_like,get_user_info,get_simple_userinfo,get_vip_info,get_vip_rich_info,add_one_blog,list_album,upload_pic,add_album,list_photo,get_info,add_t,del_t,add_pic_t,get_repost_list,get_other_info,get_fanslist,get_idollist,add_idol,del_idol,get_tenpay_addr
 
 #
 https://transferring-videos.com/en/back/
@@ -329,8 +316,6 @@ https://www.4kdownload.com/ko/products/product-videodownloader
 
 http://tv.naver.com/vendengtv/clips  YEOREUM P61 - 170212 Yeoreum
 
-223.5.5.5
-223.6.6.6
 
 https://addons.mozilla.org/zh-TW/firefox/addon/unblock-youku-firefox/
 
@@ -467,12 +452,4 @@ https://youtu.be/XRgr6tIjhNg MV
 http://en.fetchfile.net/download-from-vlive/
 
 https://twitter.com/bn_drama/status/931115284206837760
-
-https://send-anywhere.com/web/link/3048RZSR  EP.3
-
-https://subtitleframe.com 在线添加字幕srt到video视频
-
-https://www.alibabacloud.com/?mscareaid=sg&mscmsgid=3160217112000000904&mscsiteid=intl&msctype=email&utm_campaign=sys&utm_medium=system&utm_source=sys_email
-
-
 
