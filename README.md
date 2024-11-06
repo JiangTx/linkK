@@ -6,11 +6,6 @@ http://wepaste.com/qqqq 111111
 
 https://bitbucket.org/azsoucom/link
 
-# VMware.Thinapp.Enterprise.5.2.3.B6945559 portable
-https://drive.google.com/file/d/1Ops7vZH7bFlOOTEMWomEb0xYz7BW9hfE/view?usp=sharing
-
-# [Working!!]MediaHuma_YouTube_Downloader_v3.9.8.25_(0806).zip
-https://drive.google.com/file/d/19IO_AacKCxJH2CVuxxXdd2cp6-anoSfX/view?usp=sharing
 
 # [Working!]Gilisoft_WatermarkRemover_portable // 180813
 https://drive.google.com/file/d/1_4o9ChoH8VG9djqoxP7vy_4QXBf1L1q8/view?usp=sharing
@@ -18,26 +13,12 @@ https://drive.google.com/file/d/1_4o9ChoH8VG9djqoxP7vy_4QXBf1L1q8/view?usp=shari
 # SolveigMM.Video.Splitter.6.1.1808.03.Portable // 180813
 https://drive.google.com/file/d/1NJe3XYwYt2YpUx9YRCYWVPlzD9Xp4Syz/view?usp=sharing
 
-# [Working!]SolveigMM.Video.Splitter.6.1.1807.20.Portable
-https://drive.google.com/file/d/1feoEinp2CmbetlysFLs6K6WNr-nsS8lm/view?usp=sharing
-
-# [Working!]SolveigMM.Video.Splitter.6.1.1807.20.Portable_nopass
-https://drive.google.com/file/d/1q4OReIXeLNlKSNIg_w7ERJ_I0VOOtVHg/view?usp=sharing
-
-# WinRARPortable_5.50_Final_32bit_64bit_Multilingual.paf
-https://drive.google.com/file/d/1lJg5XQ7WkGMLbSWltrCemJETtZD6OhbL/view?usp=sharing
-
-# EasiestSoft.Movie.Editor.5.1.Portable Split large .ts file
-https://drive.google.com/file/d/1kOt8oe3v1DDJaDNcQfG14swUP-P6Zdfh/view?usp=sharing
-
 # YouTube Video Downloader
 http://www.freemake.com/free_video_downloader/
 
 # KeepVID Pro 7.0.1.2 Portable.zip
 https://drive.google.com/file/d/15VYFn2fRY9OwO8cBLYsltMG0P_RvH508/view?usp=sharing
 
-# TeamViewer.Free.13.2.5287.0.Portable_YasDL.com
-https://drive.google.com/file/d/1ev7wWobcSjkQQjqmIe3WbDVl-JcADNDW/view?usp=sharing
 
 # 1 下载twitter视频
 http://twittervideodownloader.com/download
@@ -103,15 +84,6 @@ https://drive.google.com/file/d/1IY_snkUbdLfJoSZeQv7HQPxNxXzfVjqY/view
 
 # avidemux portable
 https://drive.google.com/file/d/1uLboylbo4fpZUiswkzTetgFnpCYiHoBk/view?usp=sharing
-
-# .crx betternet unlimited
-https://drive.google.com/file/d/14n-aRzVgIRe1PHalP9JSZs65eJIy1WCC/view?usp=sharing
-
-# chrome64
-https://drive.google.com/file/d/144QoEWDJx4verd_VuxA4F9q5PgiGCBOk/view?usp=sharing
-
-# 4k 
-https://drive.google.com/file/d/10VLelJAUXYTfN5Avo-uDyIG1hpgqyK2i/view?usp=sharing
 
 # advanced rename portable
 https://drive.google.com/file/d/1IOsJXvXwfZWSKFfsGc6anGVkUmGLEBAD/view?usp=sharing
